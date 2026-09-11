@@ -43,4 +43,4 @@ Currently focused on learning C++ and Java, from fundamentals to advanced concep
 ## 📫 Connect with Me
 
 - GitHub: [github.com/mohammadal200711](https://github.com/mohammadal200711)
-- Email: mohammedahmadalkhalaf0‑boop@gmail.com
+- Email: mohammedahmadalkhalaf0@gmail.com
